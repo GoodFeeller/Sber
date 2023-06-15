@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Task 1</title>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../styles/content-style.css">
+</head>
+<header>First Task</header>
+<body>
+<div class="task-title">First Table</div>
+<table id="first-table">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th class="label-th">
+            Label
+        </th>
+    </tr>
+    {{#each item}}
+        {{#if this.ifLeaf}}
+            <tr id="level_1">
+                <td>{{this.value}}</td>
+                <td>
+                    <input class="table-label" type="submit" id="{{this.value}}" value="{{this.label}}" style="background-color: #0000; border: 0">
+                </td>
+            </tr>
+        {{else}}
+            <tr>
+                <td>{{this.value}}</td>
+                <td>{{this.label}}</td>
+            </tr>
+        {{/if}}
+
+    {{/each}}
+</table>
+<div class="task-title">Second Task</div>
+<table id="tb2">
+    <tr>
+        <th>
+            ID
+        </th>
+        <th class="label-th">
+            Info
+        </th>
+    </tr>
+    {{#each tb2}}
+        <tr id="tb2|{{this.id}}">
+            <td>{{this.id}}</td>
+            <td>{{this.info}}</td>
+            <td class="btn-td"><button class="change-btn">Изменить</button></td>
+            <td class="btn-td"><button class="delete-btn">Удалить</button></td>
+        </tr>
+    {{/each}}
+</table>
+<div class="form-div">
+    <form class="add-tb2-form" name="add_tb2">
+        <div>Добавить новый элемент</div>
+        <div>
+            <label>Info</label>
+            <input class="info-input" type="text" name="info">
+        </div>
+        <input class="sub-btn" type="submit" id="add_tb2_submit" value="Добавить"></input>
+    </form>
+</div>
+<script src="../scripts/contentScript.js"></script>
+</body>
+<html>

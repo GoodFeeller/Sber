@@ -1,0 +1,105 @@
+.label-th {
+    position: absolute;
+}
+
+.table-label, td{
+    font-size: 16pt;
+    font-weight: normal;
+    font-family: "Times New Roman";
+}
+
+.table-label {
+    background-color: #0000;
+    border: 0;
+    padding: 0;
+    margin: 0;
+}
+.table-label:disabled {
+    color: black;
+}
+
+header {
+    width: 100%;
+    font-family: Impact;
+    font-size: 48pt;
+    text-align: center;
+    padding: 20px 0;
+    color: white;
+    background: linear-gradient(90deg, rgba(19,228,57,1) 22%, rgba(161,206,41,1) 50%, rgba(103,181,23,1) 83%);
+}
+.task-title {
+    font-size: 40pt;
+    text-align: center;
+    font-family: "Times New Roman";
+    font-weight: bold;
+    margin-top: 20px;
+}
+table {
+    font-family: "Times New Roman";
+    font-weight: bolder;
+    font-size: 24pt;
+    border-spacing: 15px 10px;
+    text-align: center;
+}
+td {
+    background-color: rgb(142, 231, 201);
+    padding: 10px;
+    border-radius: 12px;
+}
+td:hover {
+    box-shadow: 0 2px 5px 2px black;
+}
+body {
+    margin: 0;
+}
+.btn-td {
+    padding: 0;
+}
+button {
+    height: 50px;
+    border-radius: 12px;
+    border: 0;
+    background-color: #0000;
+    font-size: 16pt;
+    padding: 0 15px;
+}
+.form-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.add-tb2-form {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+.add-tb2-form div {
+    margin: 20px 0;
+    font-size: 26pt;
+    font-family: "Times New Roman";
+    font-weight: bolder;
+}
+.add-tb2-form label {
+    font-size: 24pt;
+    margin-right: 15px;
+}
+.info-input {
+    border: 0;
+    border-bottom: 1px black solid;
+    outline: none;
+    font-size: 16pt;
+    background-color: #0000;
+}
+.sub-btn {
+    background-color: rgb(142, 231, 201);
+    padding: 10px;
+    border-radius: 12px;
+    font-size: 20pt;
+    border: 0;
+}
+
+.sub-btn:hover {
+    box-shadow: 0 2px 5px 2px black;
+}
