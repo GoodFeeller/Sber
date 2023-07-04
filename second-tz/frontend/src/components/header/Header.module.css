@@ -1,0 +1,29 @@
+.header {
+    background: linear-gradient(90deg, rgba(139,162,32,1) 16%, rgba(77,140,25,1) 50%, rgba(42,182,44,1) 83%);
+    display: grid;
+    grid-template-columns: repeat(2,1fr) 2fr repeat(2, 1fr);
+    grid-template-rows: 1fr;
+    grid-template-areas: '. . title . home';
+    padding: 20px 0;
+    min-height: 50px;
+}
+
+.title {
+    grid-area: title;
+    font-size: 28pt;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+
+    color: white;
+    transition: all 0.4s ease;
+}
+
+.title:hover {
+    font-size: 32pt;
+    padding: 0;
+}
+.home {
+    grid-area: home;
+}

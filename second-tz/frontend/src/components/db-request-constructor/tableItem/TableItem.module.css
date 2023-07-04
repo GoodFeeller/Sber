@@ -1,0 +1,35 @@
+.select {
+    font-size: 14pt;
+    outline: none;
+    border: none;
+}
+.body {
+    display: flex;
+    border-radius: 4px;
+    border-bottom: 2px solid black;
+    align-items: center;
+    justify-content: center;
+}
+.delete {
+    width: 40px;
+    height: 40px;
+    outline: none;
+    border: none;
+    background-color: #0000;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 4px;
+    font-size: 20pt;
+    font-weight: bold;
+    transition: all ease 0.4s
+}
+.delete:hover {
+    background-color: #d96060;
+}
+.checkBox {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    border: solid black 2px;
+    border-radius: 4px;
+}

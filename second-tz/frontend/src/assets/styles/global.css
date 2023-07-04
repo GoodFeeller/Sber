@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: "Oswald variant0", Tofu, sans-serif;
+}
+.btn {
+    font-size: 16pt;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    border-radius: 4px;
+    max-width: 120px;
+    font-family: "Oswald variant0", Tofu, sans-serif;
+    font-weight: bolder;
+    transition: all 0.4s ease;
+    border: none;
+}
+.btn:hover {
+    background-color: #9ae7ad;
+}

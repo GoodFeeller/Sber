@@ -1,0 +1,32 @@
+.link {
+    border-radius: 10px;
+    height: 150px;
+    width: 400px;
+    padding: 15px;
+    background-color: #5be176;
+    text-decoration: none;
+    color: black;
+    transition: all ease 0.4s;
+}
+.link:hover {
+    width: 450px;
+    height: 200px;
+}
+
+.linkBody {
+    margin: 30px;
+    height: 220px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.title {
+    font-weight: bold;
+    font-size: 18pt;
+    padding: 10px 5px;
+}
+.name {
+    font-size: 14pt;
+    padding: 10px 5px;
+}

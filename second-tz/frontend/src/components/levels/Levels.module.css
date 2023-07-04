@@ -1,0 +1,37 @@
+.body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 75px;
+}
+
+.table {
+    font-size: 16pt;
+    border-spacing: 20px;
+    font-family: "Oswald variant0", Tofu, sans-serif;
+}
+
+.infoTh {
+    position: absolute;
+}
+.info {
+    background-color: #1bcc45;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 4px;
+    transition: all ease 0.4s;
+}
+.info:hover {
+    background-color: #13ec45;
+    box-shadow: black 0 0 5px 2px;
+    color: #342e2e;
+}
+
+.id {
+    background-color: #1bcc45;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border-radius: 4px;
+}

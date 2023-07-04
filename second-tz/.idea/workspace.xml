@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a4227e17-fdca-4bfa-93d4-a68b354bd9e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/src/main/java/DBOracleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../db-oracle/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/repository/OracleRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/src/it/settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/src/it/simple-it/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/src/it/simple-it/verify.groovy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/src/main/java/OracleApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oracle/src/main/java/org/example/MyMojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/config/Database.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/config/LevelsDB.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/dbConstructorControllers/GetController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/dbConstructorControllers/PostController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/levelsControllers/LevelsGetController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/controllers/levelsControllers/LevelsPostController.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/models/levelsModels/levelsModel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/service/DBRequestService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/service/LevelsService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/DBRequestConstructor.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/DBRequestConstructor.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/add-button/addButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/add-button/addButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/create-button/createButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/table/Table.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/tableItem/TableItem.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/db-request-constructor/tableItem/TableItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/levels/Levels.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/components/levels/Levels.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/http/DBRequestService.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/src/http/LevelsService.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/backend" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RSpNn3L0UkBMzkO7JgQcI63pbz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;A:/Sber/Sber/task1&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="A:\Sber\Sber\second-tz\frontend\src\components" />
+      <recent name="A:\Sber\Sber\second-tz" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" path-to-node="C:/Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$/src">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4227e17-fdca-4bfa-93d4-a68b354bd9e0" name="Changes" comment="" />
+      <created>1687253299666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687253299666</updated>
+      <workItem from="1687253301617" duration="75438000" />
+      <workItem from="1687527975325" duration="11067000" />
+      <workItem from="1687616278571" duration="3497000" />
+      <workItem from="1687702106757" duration="1795000" />
+      <workItem from="1687774946717" duration="5075000" />
+      <workItem from="1687811386399" duration="1272000" />
+      <workItem from="1687957570059" duration="2257000" />
+      <workItem from="1688065028254" duration="1203000" />
+      <workItem from="1688425677752" duration="4059000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
